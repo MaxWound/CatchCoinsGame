@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072611402526",
+    "project_id": "marlerino-test-task",
+    "storage_bucket": "marlerino-test-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072611402526:android:909622fa458a52969c9f0f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.testtaskMalerino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072611402526-h2jjub0tglukpebp2a96tkmfv7aco1ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-jAH_FtPXob5VAXPmoFvoIN0YW7kK-jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072611402526-h2jjub0tglukpebp2a96tkmfv7aco1ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
